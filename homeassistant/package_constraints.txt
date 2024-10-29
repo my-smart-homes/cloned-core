@@ -27,7 +27,6 @@ cryptography==43.0.1
 dbus-fast==2.24.3
 fnv-hash-fast==1.0.2
 go2rtc-client==0.0.1b2
-ha-av==10.1.1
 ha-ffmpeg==3.2.1
 habluetooth==3.6.0
 hass-nabucasa==0.81.1
@@ -46,6 +45,7 @@ paho-mqtt==1.6.1
 Pillow==10.4.0
 propcache==0.2.0
 psutil-home-assistant==0.0.1
+pyav==13.1.0
 PyJWT==2.9.0
 pymicro-vad==1.0.1
 PyNaCl==1.5.0
